@@ -1,1 +1,1 @@
-# This repository is about studying HTML
+# This repository is a HTML study material.
